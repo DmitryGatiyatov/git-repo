@@ -1,8 +1,9 @@
-print("Helloy")
+print("Helloy";)
 print("Hello world";)
 print("Hello;")
 print("Hello my friend";)
 print("Hey";)
 print("Hello world";)
 print("Hello";)
-print("Helloy")
+
+
